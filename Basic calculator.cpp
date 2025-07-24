@@ -16,3 +16,10 @@ int main() {
 
     return 0;
 }
+// OUTPUT
+// Enter 1st number: 11
+// Enter 2nd number: 10
+// Sum of the given numbers is: 21
+// Difference of the given numbers is: 1
+// Multiplication of the given numbers is: 110
+// Division of the given numbers is: 1.1
